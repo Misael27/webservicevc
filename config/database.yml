@@ -81,6 +81,6 @@ test:
 #
 production:
   <<: *default
-  database: webservice_production
-  username: webservice
+  database: d4j8neu1tmp7qt
+  username: arieitmaqsagdx
   password: <%= ENV['WEBSERVICE_DATABASE_PASSWORD'] %>
